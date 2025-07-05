@@ -2,7 +2,7 @@
 
 This project implements a Generative Adversarial Network (GAN) to generate human face that don't exists using the **CelebA dataset**.
 
-![Generated Faces](https://github.com/yourusername/yourrepo/assets/generated_faces_sample.png) 
+![Generated Faces](https://github.com/Vaibhavee89/FaceForge/blob/main/GAN.png) 
 
 ---
 
