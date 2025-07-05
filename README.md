@@ -1,6 +1,6 @@
 # 🧠 GAN for Face Generation using CelebA Dataset
 
-This project implements a Generative Adversarial Network (GAN) to generate human face images using the **CelebA dataset**. The GAN is trained to learn and generate realistic-looking faces after 50 epochs of training.
+This project implements a Generative Adversarial Network (GAN) to generate human face that don't exists using the **CelebA dataset**.
 
 ![Generated Faces](https://github.com/yourusername/yourrepo/assets/generated_faces_sample.png) 
 
@@ -23,7 +23,7 @@ This project implements a Generative Adversarial Network (GAN) to generate human
 * ✅ Implemented a basic GAN architecture (Generator & Discriminator)
 * 📦 Used the **CelebA dataset** downloaded directly via **Kaggle API**
 * 🧪 Trained for **50 epochs** using TensorFlow/Keras
-* 🎨 Generated face samples at regular intervals to monitor progress
+* 🎨 Generated face samples after every epoch to monitor progress
 
 ---
 
@@ -126,23 +126,3 @@ AI Enthusiast | Deep Learning Researcher
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🌟 Acknowledgements
-
-* [Kaggle - CelebA Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
-* TensorFlow Tutorials on GANs
-* Deep Learning Specialization by Andrew Ng
-
-```
-
----
-
-Let me know if you'd like me to customize the notebook filename, insert actual generated samples, or include links to your GitHub repo.
-```
-# FaceForge
-Creating faces that don't exists
