@@ -70,7 +70,7 @@ This project implements a Generative Adversarial Network (GAN) to generate human
 
 | Epoch | Generator Loss | Discriminator Loss |
 | ----- | -------------- | ------------------ |
-| 50    | \~1.20         | \~0.65             |
+| 13    | \~0.96        | \~0.65             |
 
 ---
 
@@ -108,15 +108,6 @@ Install dependencies (for local run):
 pip install tensorflow numpy matplotlib kaggle
 ```
 
----
-
-## 💡 Future Work
-
-* Improve model stability using Wasserstein GAN (WGAN)
-* Train on higher resolution (128x128) faces
-* Add GUI for face generation
-
----
 
 ## 🧑‍💻 Author
 
