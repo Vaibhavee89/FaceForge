@@ -116,7 +116,7 @@ pip install tensorflow numpy matplotlib kaggle
 
 **Vaibhavee Singh**
 AI Enthusiast | Deep Learning Researcher
-[GitHub](https://github.com/vaibhavee-singh) • [LinkedIn](https://linkedin.com/in/vaibhavee-singh)
+[GitHub](https://github.com/vaibhavee89) • [LinkedIn](https://www.linkedin.com/in/vaibhavee-singh-1b7996252/)
 
 ---
 
