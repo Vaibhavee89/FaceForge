@@ -81,7 +81,7 @@ os.environ['KAGGLE_KEY'] = userdata.get('KAGGLE_KEY')
 
 We were able to train the model for 13 epochs only because of hardware limitations, but you can train it further Below are some sample generated face images after training for 10 epochs:
 
-![Samples](generated_faces/sample_epoch_50.png) <!-- Replace with actual sample image path -->
+![Samples](https://github.com/Vaibhavee89/FaceForge/blob/main/GAN-epoch10.png) <!-- Replace with actual sample image path -->
 
 ---
 
