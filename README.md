@@ -34,11 +34,14 @@ This project implements a Generative Adversarial Network (GAN) to generate human
 
 ```python
 # Sample code to download using Kaggle API
-!mkdir ~/.kaggle
-!cp kaggle.json ~/.kaggle/
-!chmod 600 ~/.kaggle/kaggle.json
+import os
+from google.colab import userdata
+
+# Set up Kaggle API credentials
+os.environ['KAGGLE_USERNAME'] = userdata.get('KAGGLE_USERNAME')
+os.environ['KAGGLE_KEY'] = userdata.get('KAGGLE_KEY')
+
 !kaggle datasets download -d jessicali9530/celeba-dataset
-!unzip celeba-dataset.zip -d ./data
 ```
 
 ---
